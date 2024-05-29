@@ -1,0 +1,122 @@
+{
+    "Arsenal": {
+        "Win Ratio": 72,
+        "Standing": 2,
+        "Goal Ratio": 2.44,
+        "Goal Against Ratio": 0.78
+    },
+    "Liverpool": {
+        "Win Ratio": 64,
+        "Standing": 3,
+        "Goal Ratio": 2.25,
+        "Goal Against Ratio": 1.06
+    },
+    "Manchester City": {
+        "Win Ratio": 72,
+        "Standing": 1,
+        "Goal Ratio": 2.53,
+        "Goal Against Ratio": 0.92
+    },
+    "Manchester United": {
+        "Win Ratio": 46,
+        "Standing": 8,
+        "Goal Ratio": 1.49,
+        "Goal Against Ratio": 1.57
+    },
+    "Chelsea": {
+        "Win Ratio": 44,
+        "Standing": 7,
+        "Goal Ratio": 2.03,
+        "Goal Against Ratio": 1.69
+    },
+    "Aston Villa": {
+        "Win Ratio": 56,
+        "Standing": 4,
+        "Goal Ratio": 2.03,
+        "Goal Against Ratio": 1.47
+    },
+    "Tottenham": {
+        "Win Ratio": 53,
+        "Standing": 5,
+        "Goal Ratio": 1.97,
+        "Goal Against Ratio": 1.64
+    },
+    "Newcastle United": {
+        "Win Ratio": 47,
+        "Standing": 6,
+        "Goal Ratio": 2.19,
+        "Goal Against Ratio": 1.58
+    },
+    "West Ham United": {
+        "Win Ratio": 38,
+        "Standing": 9,
+        "Goal Ratio": 1.59,
+        "Goal Against Ratio": 1.92
+    },
+    "Brighton": {
+        "Win Ratio": 33,
+        "Standing": 10,
+        "Goal Ratio": 1.5,
+        "Goal Against Ratio": 1.61
+    },
+    "Bournemouth": {
+        "Win Ratio": 35,
+        "Standing": 11,
+        "Goal Ratio": 1.43,
+        "Goal Against Ratio": 1.76
+    },
+    "Crystal Palace": {
+        "Win Ratio": 32,
+        "Standing": 12,
+        "Goal Ratio": 1.41,
+        "Goal Against Ratio": 1.57
+    },
+    "Wolves": {
+        "Win Ratio": 35,
+        "Standing": 13,
+        "Goal Ratio": 1.35,
+        "Goal Against Ratio": 1.7
+    },
+    "Fulham": {
+        "Win Ratio": 32,
+        "Standing": 14,
+        "Goal Ratio": 1.38,
+        "Goal Against Ratio": 1.59
+    },
+    "Everton": {
+        "Win Ratio": 35,
+        "Standing": 15,
+        "Goal Ratio": 1.05,
+        "Goal Against Ratio": 1.32
+    },
+    "Brentford": {
+        "Win Ratio": 27,
+        "Standing": 16,
+        "Goal Ratio": 1.46,
+        "Goal Against Ratio": 1.65
+    },
+    "Nottingham Forest": {
+        "Win Ratio": 22,
+        "Standing": 17,
+        "Goal Ratio": 1.27,
+        "Goal Against Ratio": 1.78
+    },
+    "Luton Town": {
+        "Win Ratio": 16,
+        "Standing": 18,
+        "Goal Ratio": 1.35,
+        "Goal Against Ratio": 2.19
+    },
+    "Burnley": {
+        "Win Ratio": 14,
+        "Standing": 19,
+        "Goal Ratio": 1.08,
+        "Goal Against Ratio": 2.05
+    },
+    "Sheffield United": {
+        "Win Ratio": 8,
+        "Standing": 20,
+        "Goal Ratio": 0.95,
+        "Goal Against Ratio": 2.73
+    }
+}
